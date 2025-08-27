@@ -1,0 +1,13 @@
+# frontend
+/node_modules
+/dist
+.parcel-cache
+
+# Backend
+/Backend/node_modules
+
+#github token
+/.env
+
+# test
+/coverage
