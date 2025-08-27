@@ -1,0 +1,79 @@
+{
+    "id": "785298",
+    "name": "Olio - The Wood Fired Pizzeria",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/17/d1dcb958-d1d4-4f8b-a3c1-8ca99c2aa5a6_785298.JPG",
+    "locality": "KHASRA NO. 22",
+    "areaName": "NIHANKARI SATSANG BHAWAN",
+    "costForTwo": "₹300 for two",
+    "cuisines": [
+        "Pizzas",
+        "Pastas",
+        "Italian",
+        "Fast Food",
+        "Snacks",
+        "Beverages",
+        "Desserts"
+    ],
+    "avgRating": 4.2,
+    "parentId": "11633",
+    "avgRatingString": "4.2",
+    "totalRatingsString": "2.3K+",
+    "sla": {
+        "deliveryTime": 51,
+        "lastMileTravel": 1.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "50-60 mins",
+        "lastMileTravelString": "1.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+        "nextCloseTime": "2025-08-24 06:00:00",
+        "opened": true
+    },
+    "badges": {
+        "imageBadges": [
+            {
+                "imageId": "newg.png",
+                "description": "Gourmet"
+            }
+        ]
+    },
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+        "entityBadges": {
+            "imageBased": {
+                "badgeObject": [
+                    {
+                        "attributes": {
+                            "description": "Gourmet",
+                            "imageId": "newg.png"
+                        }
+                    }
+                ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+        }
+    },
+    "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹99"
+    },
+    "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+            "lottie": {},
+            "video": {}
+        }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {},
+    "externalRatings": {
+        "aggregatedRating": {
+            "rating": "--"
+        }
+    },
+    "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+}
