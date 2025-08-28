@@ -5,6 +5,7 @@
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
+    "preview": "serve -s dist",
     "test": "jest",
     "watch-test": "jest --watch",
     "backend": "node backend/server.js",
@@ -30,6 +31,7 @@
     "jest-environment-jsdom": "^30.0.5",
     "parcel": "^2.15.4",
     "postcss": "^8.5.6",
+    "serve": "^14.2.4",
     "tailwindcss": "^4.1.12"
   },
   "dependencies": {
